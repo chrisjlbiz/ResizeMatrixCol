@@ -1,5 +1,5 @@
 # Resize Matrix Column
-This function uses Array.Copy function to copy a range of elements into the new array, instead of copying each element one by one. 
+Fast function to add or remove columns of a multidimensional array. This function uses Array.Copy function to copy a range of elements into the new array, instead of copying each element one by one. 
 
 Given a multidimensional array, matrix1 :
 ```
